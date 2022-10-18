@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohammad
+- 👀 I’m interested in C#/Python Coding
+- 🌱 I’m currently learning Xamarin
+- 📫 How to reach me emvb9@live.com on E-mail and @emvb9 on Telegram
