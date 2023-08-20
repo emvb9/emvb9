@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohammad
-- 👀 I’m interested in C#/Python Coding
-- 🌱 I’m currently learning Xamarin
+- 👀 I’m interested in C# Coding and Dynamics 365 developing
+- 🌱 I’m currently learning power platform And Azure 
 - 📫 How to reach me emvb9@live.com on E-mail and @emvb9 on Telegram
